@@ -16,5 +16,6 @@ if(isset($_SESSION['userLoggedIn'])){
 </head>
 <body>
     欢迎进入个人音乐平台,收听我们喜欢的音乐。
+    这将是一场新的音乐盛宴！！！	
 </body>
 </html>
